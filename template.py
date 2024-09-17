@@ -1,6 +1,6 @@
 import logging.config
 logging.config.fileConfig('.logging.conf')
-logger = logging.getLogger('root')
+l = logging.getLogger('root')
 # logger.debug(f'2+2 = {2+2}')
 
 import os
