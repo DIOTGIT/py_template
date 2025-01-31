@@ -9,6 +9,9 @@ import os
 import logging.config
 from dotenv import load_dotenv, set_key, get_key
 
+sys.stdin.reconfigure(encoding='utf-8')
+sys.stdout.reconfigure(encoding='utf-8')
+
 logging.config.fileConfig('.logging.conf')
 l = logging.getLogger('root')
 # l.debug(f'2+2 = {2+2}')
