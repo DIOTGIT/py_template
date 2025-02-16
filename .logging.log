@@ -1,0 +1,9 @@
+2025-02-16 10:48:36,735 | CRITICAL | app.py-<module>-0004 | Ez egy példa log üzenet
+2025-02-16 10:51:17,868 | CRITICAL | app.py-<module>-0004 | Ez egy példa log üzenet
+2025-02-16 10:51:17,885 | INFO     | py_template.py-logi-0041 | <module>
+2025-02-16 11:02:18,837 | CRITICAL | app.py-<module>-0004 | Ez egy példa log üzenet
+2025-02-16 11:02:18,851 | INFO     | py_template.py-logi-0041 | <module>
+2025-02-16 11:08:14,125 | CRITICAL | app.py-<module>-0004 | Ez egy példa log üzenet
+2025-02-16 11:08:14,143 | INFO     | py_template.py-logi-0041 | <module>
+2025-02-16 11:10:06,275 | CRITICAL | app.py-<module>-0004 | Ez egy példa log üzenet
+2025-02-16 11:10:06,294 | INFO     | py_template.py-logi-0041 | <module>
