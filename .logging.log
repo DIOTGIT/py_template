@@ -7,3 +7,6 @@
 2025-02-16 11:08:14,143 | INFO     | py_template.py-logi-0041 | <module>
 2025-02-16 11:10:06,275 | CRITICAL | app.py-<module>-0004 | Ez egy példa log üzenet
 2025-02-16 11:10:06,294 | INFO     | py_template.py-logi-0041 | <module>
+2025-02-16 11:39:50,450 | CRITICAL | app.py-<module>-0004 | Ez egy példa log üzenet
+2025-02-16 11:42:13,123 | CRITICAL | app.py-<module>-0004 | Ez egy példa log üzenet
+2025-02-16 11:42:13,142 | INFO     | py_template.py-logi-0041 | <module>
