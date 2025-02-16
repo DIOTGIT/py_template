@@ -12,13 +12,13 @@ from dotenv import load_dotenv, set_key, get_key
 sys.stdin.reconfigure(encoding='utf-8')
 sys.stdout.reconfigure(encoding='utf-8')
 
-logging.config.fileConfig('./pyt/.logging.conf')
+logging.config.fileConfig('./.pyt/.logging.conf')
 l = logging.getLogger('root')
 # l.debug(f'2+2 = {2+2}')
 # set_key(dotenv_path='.env', key_to_set="mlflow_runid", value_to_set="Johni")
 
 
-env_file = './pyt/.env'
+env_file = './.pyt/.env'
 load_dotenv(env_file)
 # get_key('.env','mlflow_runid')
 # os.environ['mlflow_runid'] = 'sss'

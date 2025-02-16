@@ -1,4 +1,3 @@
 python-dotenv #for .env
 shutils #for deltree
-psutil #for memory
-streamlit #for web app
+
